@@ -1,6 +1,4 @@
-/*Irrigation monitoring system with Nodemcu
- * https://srituhobby.com 
- */
+
  
 
 #include <Wire.h>
