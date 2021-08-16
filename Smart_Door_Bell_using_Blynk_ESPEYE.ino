@@ -26,9 +26,9 @@
 #define relay4 13
 
 
-const char* ssid = "Vishal";
-const char* password = "Vishal1234";
-char auth[] = "AJBNPzCM5UZfAO1igBJNAjuJQWxFlFzz";
+const char* ssid = "**********";
+const char* password = "*************";
+char auth[] = "****************";
 
 String my_Local_IP;
 
