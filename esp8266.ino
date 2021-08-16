@@ -6,7 +6,7 @@
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
 
-char auth[] = "WlRqVSuWfkkQ0q0BneaelmR_i2lkzXqo";//Enter your Auth token
+char auth[] = "***************";//Enter your Auth token
 char ssid[] = "Atharva";//Enter your WIFI name
 char pass[] = "Atharva3102";//Enter your WIFI password
 
